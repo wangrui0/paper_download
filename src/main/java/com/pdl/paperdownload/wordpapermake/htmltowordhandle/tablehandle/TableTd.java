@@ -1,46 +1,46 @@
 package com.pdl.paperdownload.wordpapermake.htmltowordhandle.tablehandle;
 
 public class TableTd {
-	
-   private String tdStr;
-   
-   private Integer width;
-   
-   private Integer rowsapn;
-   
-   private Integer colspan;
 
-public String getTdStr() {
-	return tdStr;
-}
+  private String tdStr;
 
-public void setTdStr(String tdStr) {
-	this.tdStr = tdStr;
-}
+  private Integer width;
 
-public Integer getWidth() {
-	return width;
-}
+  private Integer rowsapn;
 
-public void setWidth(Integer width) {
-	this.width = width;
-}
+  private Integer colspan;
 
-public Integer getRowsapn() {
-	return rowsapn;
-}
+  public String getTdStr() {
+    return tdStr;
+  }
 
-public void setRowsapn(Integer rowsapn) {
-	this.rowsapn = rowsapn;
-}
+  public void setTdStr(String tdStr) {
+    this.tdStr = tdStr;
+  }
 
-public Integer getColspan() {
-	return colspan;
-}
+  public Integer getWidth() {
+    return width;
+  }
 
-public void setColspan(Integer colspan) {
-	this.colspan = colspan;
-}
-   
-   
+  public void setWidth(Integer width) {
+    this.width = width;
+  }
+
+  public Integer getRowsapn() {
+    return rowsapn;
+  }
+
+  public void setRowsapn(Integer rowsapn) {
+    this.rowsapn = rowsapn;
+  }
+
+  public Integer getColspan() {
+    return colspan;
+  }
+
+  public void setColspan(Integer colspan) {
+    this.colspan = colspan;
+  }
+
+
 }

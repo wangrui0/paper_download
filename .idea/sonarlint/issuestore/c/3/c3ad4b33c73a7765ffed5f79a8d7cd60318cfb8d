@@ -1,0 +1,29 @@
+
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(à±¦¦8¼ıÚë».
+i
+java:S1192""GDefine a constant instead of duplicating this literal "&#160;" 4 times.(Ü…¡­şÿÿÿÿ8¼ıÚë».
+g
+java:S4143¿"DVerify this is the key that was intended; it was already set before.(ôæ«èúÿÿÿÿ8¼ıÚë».
+a
+java:S4143u"DVerify this is the key that was intended; it was already set before.(Ì ö 8¼ıÚë».
+r
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ş˜˜8¼ıÚë».
+b
+java:S4143š"DVerify this is the key that was intended; it was already set before.(¿ÉÒ•8¼ıÚë».
+f
+java:S4143t"DVerify this is the key that was intended; it was already set before.(÷´ó’üÿÿÿÿ8¼ıÚë».
+g
+java:S4143¸"DVerify this is the key that was intended; it was already set before.(Ü…¡­şÿÿÿÿ8¼ıÚë».
+f
+java:S4143s"DVerify this is the key that was intended; it was already set before.(¡·©øÿÿÿÿ8¼ıÚë».
+b
+java:S4143¹"DVerify this is the key that was intended; it was already set before.(ûÆ•Ê8¼ıÚë».
+{
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷„Ä¸ıÿÿÿÿ8¼ıÚë».
+‹
+java:S1319"oThe return type of this method should be an interface such as "Map" rather than the implementation "Hashtable".(ş˜˜8¼ıÚë».
+s
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(úú¶Ó8¼ıÚë».
+f
+java:S4143r"DVerify this is the key that was intended; it was already set before.(Û¹Âûÿÿÿÿ8¼ıÚë».

@@ -1,0 +1,111 @@
+
+7
+java:S1643B"Use a StringBuilder instead.(ğíİØùÿÿÿÿ
+t
+java:S1104"YMake colwidthbegin a static final constant or non-public and provide accessors if needed.(€¨‡Áøÿÿÿÿ
+F
+java:S1444"0Make this "public static tblGridend" field final(³ğÇŸ
+A
+java:S1444"+Make this "public static tcend" field final(°«İ¸
+2
+java:S1643."Use a StringBuilder instead.(Ó®ÛÂ
+u
+java:S1104"ZMake tccolspanbegin a static final constant or non-public and provide accessors if needed.(¾ÙœÕıÿÿÿÿ
+p
+java:S1104"ZMake tcrowspanbegin a static final constant or non-public and provide accessors if needed.(µ³Ôà
+i
+java:S1104"TMake tcMiddle a static final constant or non-public and provide accessors if needed.(£·¸U
+N
+java:S1444"3Make this "public static colwidthbegin" field final(€¨‡Áøÿÿÿÿ
+g
+java:S1104"QMake tcend a static final constant or non-public and provide accessors if needed.(°«İ¸
+2
+java:S1643{"Use a StringBuilder instead.(Š©‡
+7
+java:S1643~"Use a StringBuilder instead.(ÁÉàŞÿÿÿÿÿ
+q
+java:S1104"VMake tcWidthend a static final constant or non-public and provide accessors if needed.(ı¶ıÿÿÿÿ
+H
+java:S1444"2Make this "public static tcrowspanend" field final(óåµ
+i
+java:S1104"SMake tcwidth a static final constant or non-public and provide accessors if needed.(¼¦ô
+I
+java:S1444
+".Make this "public static tableend" field final(¦³†«úÿÿÿÿ
+K
+java:S1444"0Make this "public static tcWidthend" field final(ı¶ıÿÿÿÿ
+C
+java:S1444"-Make this "public static tcwidth" field final(¼¦ô
+A
+java:S1444"+Make this "public static trend" field final(Ø”ı­
+2
+java:S1643f"Use a StringBuilder instead.(ãº¶Â
+n
+java:S1104"XMake tcWidthbegin a static final constant or non-public and provide accessors if needed.(¾®—
+n
+java:S1104"XMake tblGridbegin a static final constant or non-public and provide accessors if needed.(Æ·éë
+C
+java:S1444".Make this "public static tcMiddle" field final(£·¸U
+G
+java:S1444"1Make this "public static colwidthend" field final(ëÜ•ë
+J
+java:S1444"/Make this "public static tcNoWidth" field final(Æ¦ñ¯şÿÿÿÿ
+H
+java:S1444"2Make this "public static tccolspanend" field final(¬âÕÇ
+n
+java:S1104"XMake tcrowspanend a static final constant or non-public and provide accessors if needed.(óåµ
+7
+java:S1643h"Use a StringBuilder instead.(¹àÇÚüÿÿÿÿ
+7
+java:S1643t"Use a StringBuilder instead.(¹àÇÚüÿÿÿÿ
+n
+java:S1104"SMake trbegin a static final constant or non-public and provide accessors if needed.(¢Åüşùÿÿÿÿ
+2
+java:S1643a"Use a StringBuilder instead.(§œù
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¶›„è
+7
+java:S16435"Use a StringBuilder instead.(åáúøÿÿÿÿ
+H
+java:S1444"2Make this "public static tblGridbegin" field final(Æ·éë
+r
+java:S1104	"WMake tableheader a static final constant or non-public and provide accessors if needed.(¶‹è§üÿÿÿÿ
+H
+java:S1444"2Make this "public static tcWidthbegin" field final(¾®—
+g
+java:S1104"QMake trend a static final constant or non-public and provide accessors if needed.(Ø”ı­
+i
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 110 to the 15 allowed.(—Âôµ
+Z
+java:S33583"DExtract this nested ternary operation into an independent statement.(ÜİÈµ
+Z
+java:S3358/"DExtract this nested ternary operation into an independent statement.(¨ÌÒ
+L
+java:S1444	"1Make this "public static tableheader" field final(¶‹è§üÿÿÿÿ
+2
+java:S1643T"Use a StringBuilder instead.(İõ×¬
+J
+java:S1444"4Make this "public static tcrowspanbegin" field final(µ³Ôà
+O
+java:S1444"4Make this "public static tccolspanbegin" field final(¾ÙœÕıÿÿÿÿ
+M
+java:S1444"2Make this "public static tcwidthRatio" field final(ÖÊë†ùÿÿÿÿ
+2
+java:S1643c"Use a StringBuilder instead.(Ñ§ùÃ
+l
+java:S1104"VMake tblGridend a static final constant or non-public and provide accessors if needed.(³ğÇŸ
+H
+java:S1444"-Make this "public static trbegin" field final(¢Åüşùÿÿÿÿ
+p
+java:S1104"UMake tcNoWidth a static final constant or non-public and provide accessors if needed.(Æ¦ñ¯şÿÿÿÿ
+o
+java:S1104
+"TMake tableend a static final constant or non-public and provide accessors if needed.(¦³†«úÿÿÿÿ
+s
+java:S1104"XMake tcwidthRatio a static final constant or non-public and provide accessors if needed.(ÖÊë†ùÿÿÿÿ
+m
+java:S1104"WMake colwidthend a static final constant or non-public and provide accessors if needed.(ëÜ•ë
+1
+java:S1643R"Use a StringBuilder instead.(š¦€a
+n
+java:S1104"XMake tccolspanend a static final constant or non-public and provide accessors if needed.(¬âÕÇ

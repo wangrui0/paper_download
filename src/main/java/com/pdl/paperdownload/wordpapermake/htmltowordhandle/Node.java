@@ -8,80 +8,83 @@ import java.util.Map;
  * @Desc: 标签节点
  **/
 public class Node {
-    private String nodeName;
-    private Integer nodeType;//1:标签节点；2:文本节点
-    private Map<String,String> attrMap;
-    private String nodeText;
-    private String nodeStr;
-    private String childStr;
-    private String nodeParent;
-    private  List<Node> childNodeList;
 
-    public String getNodeName() {
-        return nodeName;
-    }
+  private String nodeName;
+  private Integer nodeType;//1:标签节点；2:文本节点
+  private Map<String, String> attrMap;
+  private String nodeText;
+  private String nodeStr;
+  private String childStr;
+  private String nodeParent;
+  private List<Node> childNodeList;
 
-    public void setNodeName(String nodeName) {
-        this.nodeName = nodeName;
-    }
+  public String getNodeName() {
+    return nodeName;
+  }
 
-    public Integer getNodeType() {
-        return nodeType;
-    }
+  public void setNodeName(String nodeName) {
+    this.nodeName = nodeName;
+  }
 
-    public void setNodeType(Integer nodeType) {
-        this.nodeType = nodeType;
-    }
+  public Integer getNodeType() {
+    return nodeType;
+  }
 
-    public Map<String, String> getAttrMap() {
-        return attrMap;
-    }
+  public void setNodeType(Integer nodeType) {
+    this.nodeType = nodeType;
+  }
 
-    public void setAttrMap(Map<String, String> attrMap) {
-        this.attrMap = attrMap;
-    }
+  public Map<String, String> getAttrMap() {
+    return attrMap;
+  }
 
-    public String getNodeText() {
-        return nodeText;
-    }
+  public void setAttrMap(Map<String, String> attrMap) {
+    this.attrMap = attrMap;
+  }
 
-    public void setNodeText(String nodeText) {
-       // nodeText=nodeText.replaceAll("[\n\r\t]","");
-        nodeText=nodeText.trim();
-        if(nodeText==null||nodeText.equals("")) {nodeText=null;}
-        this.nodeText = nodeText;
-    }
+  public String getNodeText() {
+    return nodeText;
+  }
 
-    public String getNodeStr() {
-        return nodeStr;
+  public void setNodeText(String nodeText) {
+    // nodeText=nodeText.replaceAll("[\n\r\t]","");
+    nodeText = nodeText.trim();
+    if (nodeText == null || nodeText.equals("")) {
+      nodeText = null;
     }
+    this.nodeText = nodeText;
+  }
 
-    public void setNodeStr(String nodeStr) {
-        nodeStr=nodeStr.replaceAll("[\n\r\t]","");
-        this.nodeStr = nodeStr;
-    }
+  public String getNodeStr() {
+    return nodeStr;
+  }
 
-    public String getChildStr() {
-        return childStr;
-    }
+  public void setNodeStr(String nodeStr) {
+    nodeStr = nodeStr.replaceAll("[\n\r\t]", "");
+    this.nodeStr = nodeStr;
+  }
 
-    public void setChildStr(String childStr) {
-        this.childStr = childStr;
-    }
+  public String getChildStr() {
+    return childStr;
+  }
 
-    public String getNodeParent() {
-        return nodeParent;
-    }
+  public void setChildStr(String childStr) {
+    this.childStr = childStr;
+  }
 
-    public void setNodeParent(String nodeParent) {
-        this.nodeParent = nodeParent;
-    }
+  public String getNodeParent() {
+    return nodeParent;
+  }
 
-    public List<Node> getChildNodeList() {
-        return childNodeList;
-    }
+  public void setNodeParent(String nodeParent) {
+    this.nodeParent = nodeParent;
+  }
 
-    public void setChildNodeList(List<Node> childNodeList) {
-        this.childNodeList = childNodeList;
-    }
+  public List<Node> getChildNodeList() {
+    return childNodeList;
+  }
+
+  public void setChildNodeList(List<Node> childNodeList) {
+    this.childNodeList = childNodeList;
+  }
 }

@@ -1,0 +1,48 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ΡΆ«λ
+h
+java:S1192U"FDefine a constant instead of duplicating this literal "style" 4 times.(¨”‡ώÿÿÿÿ8±άλ».
+:
+java:S1643ί"Use a StringBuilder instead.(ς¬‰¶8±άλ».
+u	java:S135i"YReduce the total number of break and continue statements in this loop to use at most one.(ο‡Ϋ8±άλ».
+[
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(ΘΪχ8±άλ».
+a
+java:S1155™">Use isEmpty() to check whether the collection is empty or not.(‡®Έ‡ύÿÿÿÿ8±άλ».
+a
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(‡®Έ‡ύÿÿÿÿ8±άλ».
+a
+java:S1155¥">Use isEmpty() to check whether the collection is empty or not.(Χ«‰‚ώÿÿÿÿ8±άλ».
+\
+java:S1155½">Use isEmpty() to check whether the collection is empty or not.(οΌ¬κ8±άλ».
+M
+java:S2201"+The return value of "replace" must be used.(λ›Ψÿÿÿÿÿ8±άλ».
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(»„µΧόÿÿÿÿ8±άλ».
+{
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶εγώÿÿÿÿ8±άλ».
+t
+java:S37761"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.(έΞ«ύϊÿÿÿÿ8±άλ».
+c
+java:S10752"ARefactor your code to get this URI from a customizable parameter.(ΦΜ΄ÿÿÿÿÿ8±άλ».
+H
+java:S11688"+Return an empty collection instead of null.(¥Ήο8±άλ».
+{
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΦΌΣΏύÿÿÿÿ8±άλ».
+{
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬ξΠσόÿÿÿÿ8±άλ».
+v
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶8±άλ».
+p
+java:S1858t"N"positionStr" is already a string, there's no need to call "toString()" on it.(¦Ε΄ϋÿÿÿÿ8±άλ».
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(χώΥ‘ώÿÿÿÿ8±άλ».
+d
+java:S1075”"ARefactor your code to get this URI from a customizable parameter.(π Ζψÿÿÿÿ8±άλ».
+d
+java:S1075•"ARefactor your code to get this URI from a customizable parameter.(νΔψÿÿÿÿ8±άλ».
+d
+java:S1075–"ARefactor your code to get this URI from a customizable parameter.(¬μ®―ϊÿÿÿÿ8±άλ».
+|
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(έΎλ΄ψÿÿÿÿ8±άλ».
