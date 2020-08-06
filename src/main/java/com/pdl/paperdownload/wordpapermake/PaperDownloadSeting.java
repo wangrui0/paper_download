@@ -21,7 +21,7 @@ import java.util.zip.ZipOutputStream;
 
 /**
  * @Author: maoyuwei
- * @Desc: 试卷下载设置
+ * @Desc: 试卷下载设置（模板读取）
  **/
 public class PaperDownloadSeting {
 

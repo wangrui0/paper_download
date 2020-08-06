@@ -37,6 +37,7 @@ public class main {
     String fontSize = fontSizeObj == null ? null : fontSizeObj.toString();
     Object paperNameObj = requestMap.get("paperName");//试卷数据来源：resources/paperdata/下文件名
     String paperName = paperNameObj == null ? null : paperNameObj.toString();
+    //获取填充数据
     Map<String, Object> paperMap = getPaperData(paperName);
     paperMap.put("fontSize", fontSize);
     paperMap.put("docType", docType);
@@ -62,6 +63,12 @@ public class main {
     return "200";
   }
 
+  /**
+   * 填充数据
+   *
+   * @param paperName
+   * @return
+   */
   public Map<String, Object> getPaperData(String paperName) {
     String paperData = "";
     try {

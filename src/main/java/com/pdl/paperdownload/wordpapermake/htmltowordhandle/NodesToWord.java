@@ -193,6 +193,14 @@ public class NodesToWord {
     return getStr == null || getStr.equals("") ? null : Integer.parseInt(getStr);
   }
 
+  /**
+   * html 转word
+   *
+   * @param htmlStr
+   * @param relations
+   * @param tempMediaPath
+   * @return
+   */
   public static String htmlStrToWordStr(String htmlStr, Map<String, List<String>> relations, String tempMediaPath) {
     int length = htmlStr.length();
     if (length > 5 && htmlStr.substring(length - 4).equals("<br>")) {

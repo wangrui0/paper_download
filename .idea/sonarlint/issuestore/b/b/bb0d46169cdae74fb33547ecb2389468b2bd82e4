@@ -1,49 +1,51 @@
 
-W
-java:S1118":Add a private constructor to hide the implicit public one.(ûò¡³8‰Şë».
-l
-java:S4042«"IUse "java.nio.Files#delete" here for better messages on error conditions.(­©ã·ûÿÿÿÿ8‰Şë».
-l
-java:S4042§"IUse "java.nio.Files#delete" here for better messages on error conditions.(Óæµèıÿÿÿÿ8‰Şë».
-p
-java:S2095¡"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(şÌ½øÿÿÿÿ8‰Şë».
-W
-java:S4973›"9Use the "equals" method if value comparison was intended.(äœéï8‰Şë».
-j
-java:S2095Ç"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¥ùÂ8è¦Şë».
-l
-java:S2095Å"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰âîÃ8è¦Şë».
+d
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(ËºœÃşÿÿÿÿ8è¦Şë».
 g
 java:S2095x"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(ü•¯éøÿÿÿÿ8è¦Şë».
-p
-java:S1192U"NDefine a constant instead of duplicating this literal "tempMediaPath" 3 times.(¯Ä¹Äşÿÿÿÿ8è¦Şë».
+l
+java:S4042ê"IUse "java.nio.Files#delete" here for better messages on error conditions.(‚×¿™úÿÿÿÿ8è¦Şë».
+‘
+java:S1130o"tRemove the declaration of thrown exception 'java.net.URISyntaxException', as it cannot be thrown from method's body.(ÛŞŸá8°óª¼.
+l
+java:S2095Å"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‰âîÃ8è¦Şë».
 Z
 java:S2629¹"7Use the built-in formatting to construct this argument.(ËºœÃşÿÿÿÿ8è¦Şë».
 g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8è¦Şë».
-g	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8è¦Şë».
-E
-java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
-E
-java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
-E
-java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
-E
-java:S1148c"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8è¦Şë».
-F
-java:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
-{
-java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(õĞ†Šúÿÿÿÿ8è¦Şë».
+p
+java:S1192U"NDefine a constant instead of duplicating this literal "tempMediaPath" 3 times.(¯Ä¹Äşÿÿÿÿ8è¦Şë».
+l
+java:S4042ç"IUse "java.nio.Files#delete" here for better messages on error conditions.(Óæµèıÿÿÿÿ8è¦Şë».
+j
+java:S2095Ç"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¥ùÂ8è¦Şë».
+W
+java:S4973›"9Use the "equals" method if value comparison was intended.(äœéï8‰Şë».
 L
 java:S2093O"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8è¦Şë».
-o
-java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(®˜±½8è¦Şë».
-d
-java:S3457¹"AFormat specifiers should be used instead of string concatenation.(ËºœÃşÿÿÿÿ8è¦Şë».
-l
-java:S4042À"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8è¦Şë».
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
+g	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8è¦Şë».
+E
+java:S1148c"#Use a logger to log this exception.(‰œ‰Õúÿÿÿÿ8è¦Şë».
+{
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(õĞ†Šúÿÿÿÿ8è¦Şë».
+E
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
+p
+java:S2095¡"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(şÌ½øÿÿÿÿ8‰Şë».
 l
 java:S4042â"IUse "java.nio.Files#delete" here for better messages on error conditions.(‚×¿™úÿÿÿÿ8è¦Şë».
 l
-java:S4042ç"IUse "java.nio.Files#delete" here for better messages on error conditions.(Óæµèıÿÿÿÿ8è¦Şë».
+java:S4042À"IUse "java.nio.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8è¦Şë».
+F
+java:S1148Ñ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
 l
-java:S4042ê"IUse "java.nio.Files#delete" here for better messages on error conditions.(‚×¿™úÿÿÿÿ8è¦Şë».
+java:S4042«"IUse "java.nio.Files#delete" here for better messages on error conditions.(­©ã·ûÿÿÿÿ8‰Şë».
+E
+java:S1148\"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8è¦Şë».
+o
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(®˜±½8è¦Şë».
+l
+java:S4042§"IUse "java.nio.Files#delete" here for better messages on error conditions.(Óæµèıÿÿÿÿ8‰Şë».
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ûò¡³8‰Şë».

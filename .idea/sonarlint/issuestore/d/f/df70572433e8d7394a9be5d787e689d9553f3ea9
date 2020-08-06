@@ -1,52 +1,52 @@
 
 R
-java:S3066q"<Lower the visibility of this setter or remove it altogether.(óÑúº
-t
-java:S1192*"^Define a constant instead of duplicating this literal "&LT;w:u w:val=\"single\"/&GT;" 5 times.(Ñ®ñá
-R
-java:S3066y"<Lower the visibility of this setter or remove it altogether.(äÎìÌ
-X
-java:S3066™"<Lower the visibility of this setter or remove it altogether.(Ñ¼­Ñùÿÿÿÿ
-R
-java:S3066i"<Lower the visibility of this setter or remove it altogether.(û¢é 
-S
-java:S3066©"<Lower the visibility of this setter or remove it altogether.(êÏ¾’
-b
-java:S1192Ë"FDefine a constant instead of duplicating this literal "style" 3 times.(…ç½ûÿÿÿÿ
-—
-java:S1192"|Define a constant instead of duplicating this literal "&LT;w:ind w:firstLineChars=\"200\" w:firstLine=\"480\"/&GT;" 4 times.(€ì³ëÿÿÿÿÿ
+java:S3066Y"<Lower the visibility of this setter or remove it altogether.(Êğ¨
 j
 java:S1192"ODefine a constant instead of duplicating this literal "&LT;/w:pPr&GT;" 4 times.(ÆùóÂÿÿÿÿÿ
-R
-java:S3066Y"<Lower the visibility of this setter or remove it altogether.(Êğ¨
 o
 java:S1192)"YDefine a constant instead of duplicating this literal "&LT;/w:t&GT;&LT;/w:r&GT;" 6 times.(£´Í’
-…
-java:S1192"îDefine a constant instead of duplicating this literal "&LT;w:p w:rsidR=\"00A81065\" w:rsidRDefault=\"00BF47F0\" w:rsidP=\"00744A41\"&GT;&LT;w:pPr&GT;&LT;w:ind w:leftChars=\"170\" w:left=\"357\"/&GT;&LT;w:textAlignment w:val=\"center\"/&GT;&LT;w:spacing w:line=\"360\" w:lineRule=\"auto\"/&GT;&LT;w:rPr&GT;&LT;w:rFonts w:hint=\"eastAsia\"/&GT;&LT;/w:rPr&GT;" 3 times.(¼ûÓ
-R
-java:S3066a"<Lower the visibility of this setter or remove it altogether.(è‚±
-h
-java:S1192"MDefine a constant instead of duplicating this literal "&LT;/w:p&GT;" 4 times.(ÆùóÂÿÿÿÿÿ
-S
-java:S3066"<Lower the visibility of this setter or remove it altogether.(«³Ïì
-S
-java:S3066‰"<Lower the visibility of this setter or remove it altogether.(Úéë’
-i
-java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ú€éş
-p
-java:S1192)"ZDefine a constant instead of duplicating this literal "&LT;/w:rPr&GT;&LT;w:t&GT;" 6 times.(£´Í’
-W	java:S107F"BConstructor has 11 parameters, which is greater than 7 authorized.(¹•Ô¹
-t
-java:S1192"^Define a constant instead of duplicating this literal "&LT;w:jc w:val=\"right\"/&GT;" 4 times.(›ÔÑ
-h
-java:S1192("MDefine a constant instead of duplicating this literal "&LT;w:b/&GT;" 5 times.(ñ‚¦éûÿÿÿÿ
-h
-java:S1192("MDefine a constant instead of duplicating this literal "&LT;w:i/&GT;" 5 times.(ñ‚¦éûÿÿÿÿ
 X
 java:S1126ƒ"AReplace this if-then-else statement by a single return statement.(ä÷À—
+h
+java:S1192("MDefine a constant instead of duplicating this literal "&LT;w:i/&GT;" 5 times.(ñ‚¦éûÿÿÿÿ
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ú€éş
+t
+java:S1192"^Define a constant instead of duplicating this literal "&LT;w:jc w:val=\"right\"/&GT;" 4 times.(›ÔÑ
+R
+java:S3066q"<Lower the visibility of this setter or remove it altogether.(óÑúº
+S
+java:S3066©"<Lower the visibility of this setter or remove it altogether.(êÏ¾’
+W	java:S107F"BConstructor has 11 parameters, which is greater than 7 authorized.(¹•Ô¹
+p
+java:S1192)"ZDefine a constant instead of duplicating this literal "&LT;/w:rPr&GT;&LT;w:t&GT;" 6 times.(£´Í’
 X
-java:S3066¡"<Lower the visibility of this setter or remove it altogether.(ä³­ìÿÿÿÿÿ
-X
-java:S3066‘"<Lower the visibility of this setter or remove it altogether.(€¶‹¯ûÿÿÿÿ
+java:S3066™"<Lower the visibility of this setter or remove it altogether.(Ñ¼­Ñùÿÿÿÿ
 z
 java:S1192"_Define a constant instead of duplicating this literal "&LT;w:jc w:val=\"center\"/&GT;" 4 times.(€ì³ëÿÿÿÿÿ
+S
+java:S3066"<Lower the visibility of this setter or remove it altogether.(«³Ïì
+R
+java:S3066a"<Lower the visibility of this setter or remove it altogether.(è‚±
+X
+java:S3066¡"<Lower the visibility of this setter or remove it altogether.(ä³­ìÿÿÿÿÿ
+R
+java:S3066y"<Lower the visibility of this setter or remove it altogether.(äÎìÌ
+—
+java:S1192"|Define a constant instead of duplicating this literal "&LT;w:ind w:firstLineChars=\"200\" w:firstLine=\"480\"/&GT;" 4 times.(€ì³ëÿÿÿÿÿ
+…
+java:S1192"îDefine a constant instead of duplicating this literal "&LT;w:p w:rsidR=\"00A81065\" w:rsidRDefault=\"00BF47F0\" w:rsidP=\"00744A41\"&GT;&LT;w:pPr&GT;&LT;w:ind w:leftChars=\"170\" w:left=\"357\"/&GT;&LT;w:textAlignment w:val=\"center\"/&GT;&LT;w:spacing w:line=\"360\" w:lineRule=\"auto\"/&GT;&LT;w:rPr&GT;&LT;w:rFonts w:hint=\"eastAsia\"/&GT;&LT;/w:rPr&GT;" 3 times.(¼ûÓ
+h
+java:S1192"MDefine a constant instead of duplicating this literal "&LT;/w:p&GT;" 4 times.(ÆùóÂÿÿÿÿÿ
+t
+java:S1192*"^Define a constant instead of duplicating this literal "&LT;w:u w:val=\"single\"/&GT;" 5 times.(Ñ®ñá
+h
+java:S1192("MDefine a constant instead of duplicating this literal "&LT;w:b/&GT;" 5 times.(ñ‚¦éûÿÿÿÿ
+S
+java:S3066‰"<Lower the visibility of this setter or remove it altogether.(Úéë’
+X
+java:S3066‘"<Lower the visibility of this setter or remove it altogether.(€¶‹¯ûÿÿÿÿ
+b
+java:S1192Ë"FDefine a constant instead of duplicating this literal "style" 3 times.(…ç½ûÿÿÿÿ
+R
+java:S3066i"<Lower the visibility of this setter or remove it altogether.(û¢é 
